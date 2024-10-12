@@ -1,0 +1,1252 @@
+[
+    {
+        "title": "1. The Shawshank Redemption",
+        "year": "1994",
+        "rating": "9.3\n (2.9M)"
+    },
+    {
+        "title": "2. The Godfather",
+        "year": "1972",
+        "rating": "9.2\n (2.1M)"
+    },
+    {
+        "title": "3. The Dark Knight",
+        "year": "2008",
+        "rating": "9.0\n (2.9M)"
+    },
+    {
+        "title": "4. The Godfather Part II",
+        "year": "1974",
+        "rating": "9.0\n (1.4M)"
+    },
+    {
+        "title": "5. 12 Angry Men",
+        "year": "1957",
+        "rating": "9.0\n (884K)"
+    },
+    {
+        "title": "6. The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "rating": "9.0\n (2M)"
+    },
+    {
+        "title": "7. Schindler's List",
+        "year": "1993",
+        "rating": "9.0\n (1.5M)"
+    },
+    {
+        "title": "8. Pulp Fiction",
+        "year": "1994",
+        "rating": "8.9\n (2.3M)"
+    },
+    {
+        "title": "9. The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "rating": "8.9\n (2M)"
+    },
+    {
+        "title": "10. The Good, the Bad and the Ugly",
+        "year": "1966",
+        "rating": "8.8\n (824K)"
+    },
+    {
+        "title": "11. Forrest Gump",
+        "year": "1994",
+        "rating": "8.8\n (2.3M)"
+    },
+    {
+        "title": "12. The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "rating": "8.8\n (1.8M)"
+    },
+    {
+        "title": "13. Fight Club",
+        "year": "1999",
+        "rating": "8.8\n (2.4M)"
+    },
+    {
+        "title": "14. Inception",
+        "year": "2010",
+        "rating": "8.8\n (2.6M)"
+    },
+    {
+        "title": "15. Star Wars: Episode V - The Empire Strikes Back",
+        "year": "1980",
+        "rating": "8.7\n (1.4M)"
+    },
+    {
+        "title": "16. The Matrix",
+        "year": "1999",
+        "rating": "8.7\n (2.1M)"
+    },
+    {
+        "title": "17. GoodFellas",
+        "year": "1990",
+        "rating": "8.7\n (1.3M)"
+    },
+    {
+        "title": "18. One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "rating": "8.7\n (1.1M)"
+    },
+    {
+        "title": "19. Interstellar",
+        "year": "2014",
+        "rating": "8.7\n (2.2M)"
+    },
+    {
+        "title": "20. Seven",
+        "year": "1995",
+        "rating": "8.6\n (1.8M)"
+    },
+    {
+        "title": "21. It's a Wonderful Life",
+        "year": "1946",
+        "rating": "8.6\n (506K)"
+    },
+    {
+        "title": "22. Seven Samurai",
+        "year": "1954",
+        "rating": "8.6\n (372K)"
+    },
+    {
+        "title": "23. The Silence of the Lambs",
+        "year": "1991",
+        "rating": "8.6\n (1.6M)"
+    },
+    {
+        "title": "24. Saving Private Ryan",
+        "year": "1998",
+        "rating": "8.6\n (1.5M)"
+    },
+    {
+        "title": "25. City of God",
+        "year": "2002",
+        "rating": "8.6\n (813K)"
+    },
+    {
+        "title": "26. Life Is Beautiful",
+        "year": "1997",
+        "rating": "8.6\n (754K)"
+    },
+    {
+        "title": "27. The Green Mile",
+        "year": "1999",
+        "rating": "8.6\n (1.4M)"
+    },
+    {
+        "title": "28. Terminator 2: Judgment Day",
+        "year": "1991",
+        "rating": "8.6\n (1.2M)"
+    },
+    {
+        "title": "29. Star Wars: Episode IV - A New Hope",
+        "year": "1977",
+        "rating": "8.6\n (1.5M)"
+    },
+    {
+        "title": "30. Back to the Future",
+        "year": "1985",
+        "rating": "8.5\n (1.3M)"
+    },
+    {
+        "title": "31. Spirited Away",
+        "year": "2001",
+        "rating": "8.6\n (871K)"
+    },
+    {
+        "title": "32. The Pianist",
+        "year": "2002",
+        "rating": "8.5\n (934K)"
+    },
+    {
+        "title": "33. Parasite",
+        "year": "2019",
+        "rating": "8.5\n (994K)"
+    },
+    {
+        "title": "34. Psycho",
+        "year": "1960",
+        "rating": "8.5\n (732K)"
+    },
+    {
+        "title": "35. Gladiator",
+        "year": "2000",
+        "rating": "8.5\n (1.7M)"
+    },
+    {
+        "title": "36. The Lion King",
+        "year": "1994",
+        "rating": "8.5\n (1.2M)"
+    },
+    {
+        "title": "37. Spider-Man: Across the Spider-Verse",
+        "year": "2023",
+        "rating": "8.6\n (407K)"
+    },
+    {
+        "title": "38. The Departed",
+        "year": "2006",
+        "rating": "8.5\n (1.4M)"
+    },
+    {
+        "title": "39. Whiplash",
+        "year": "2014",
+        "rating": "8.5\n (1M)"
+    },
+    {
+        "title": "40. American History X",
+        "year": "1998",
+        "rating": "8.5\n (1.2M)"
+    },
+    {
+        "title": "41. Grave of the Fireflies",
+        "year": "1988",
+        "rating": "8.5\n (321K)"
+    },
+    {
+        "title": "42. Leon",
+        "year": "1994",
+        "rating": "8.5\n (1.3M)"
+    },
+    {
+        "title": "43. The Prestige",
+        "year": "2006",
+        "rating": "8.5\n (1.5M)"
+    },
+    {
+        "title": "44. Harakiri",
+        "year": "1962",
+        "rating": "8.6\n (72K)"
+    },
+    {
+        "title": "45. The Usual Suspects",
+        "year": "1995",
+        "rating": "8.5\n (1.2M)"
+    },
+    {
+        "title": "46. Casablanca",
+        "year": "1942",
+        "rating": "8.5\n (614K)"
+    },
+    {
+        "title": "47. Dune: Part Two",
+        "year": "2024",
+        "rating": "8.5\n (527K)"
+    },
+    {
+        "title": "48. Untouchable",
+        "year": "2011",
+        "rating": "8.5\n (945K)"
+    },
+    {
+        "title": "49. Cinema Paradiso",
+        "year": "1988",
+        "rating": "8.5\n (288K)"
+    },
+    {
+        "title": "50. Modern Times",
+        "year": "1936",
+        "rating": "8.5\n (263K)"
+    },
+    {
+        "title": "51. Alien",
+        "year": "1979",
+        "rating": "8.5\n (984K)"
+    },
+    {
+        "title": "52. Rear Window",
+        "year": "1954",
+        "rating": "8.5\n (531K)"
+    },
+    {
+        "title": "53. Once Upon a Time in the West",
+        "year": "1968",
+        "rating": "8.5\n (354K)"
+    },
+    {
+        "title": "54. Django Unchained",
+        "year": "2012",
+        "rating": "8.5\n (1.7M)"
+    },
+    {
+        "title": "55. City Lights",
+        "year": "1931",
+        "rating": "8.5\n (199K)"
+    },
+    {
+        "title": "56. Apocalypse Now",
+        "year": "1979",
+        "rating": "8.4\n (721K)"
+    },
+    {
+        "title": "57. Memento",
+        "year": "2000",
+        "rating": "8.4\n (1.3M)"
+    },
+    {
+        "title": "58. WALL·E",
+        "year": "2008",
+        "rating": "8.4\n (1.2M)"
+    },
+    {
+        "title": "59. Raiders of the Lost Ark",
+        "year": "1981",
+        "rating": "8.4\n (1M)"
+    },
+    {
+        "title": "60. 12th Fail",
+        "year": "2023",
+        "rating": "8.9\n (129K)"
+    },
+    {
+        "title": "61. The Lives of Others",
+        "year": "2006",
+        "rating": "8.4\n (416K)"
+    },
+    {
+        "title": "62. Sunset Blvd.",
+        "year": "1950",
+        "rating": "8.4\n (240K)"
+    },
+    {
+        "title": "63. Avengers: Infinity War",
+        "year": "2018",
+        "rating": "8.4\n (1.2M)"
+    },
+    {
+        "title": "64. Paths of Glory",
+        "year": "1957",
+        "rating": "8.4\n (218K)"
+    },
+    {
+        "title": "65. Spider-Man: Into the Spider-Verse",
+        "year": "2018",
+        "rating": "8.4\n (692K)"
+    },
+    {
+        "title": "66. Witness for the Prosecution",
+        "year": "1957",
+        "rating": "8.4\n (141K)"
+    },
+    {
+        "title": "67. The Shining",
+        "year": "1980",
+        "rating": "8.4\n (1.1M)"
+    },
+    {
+        "title": "68. The Great Dictator",
+        "year": "1940",
+        "rating": "8.4\n (240K)"
+    },
+    {
+        "title": "69. Aliens",
+        "year": "1986",
+        "rating": "8.4\n (787K)"
+    },
+    {
+        "title": "70. Inglourious Basterds",
+        "year": "2009",
+        "rating": "8.4\n (1.6M)"
+    },
+    {
+        "title": "71. The Dark Knight Rises",
+        "year": "2012",
+        "rating": "8.4\n (1.9M)"
+    },
+    {
+        "title": "72. Coco",
+        "year": "2017",
+        "rating": "8.4\n (612K)"
+    },
+    {
+        "title": "73. Amadeus",
+        "year": "1984",
+        "rating": "8.4\n (436K)"
+    },
+    {
+        "title": "74. Toy Story",
+        "year": "1995",
+        "rating": "8.3\n (1.1M)"
+    },
+    {
+        "title": "75. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": "1964",
+        "rating": "8.3\n (525K)"
+    },
+    {
+        "title": "76. Oldboy",
+        "year": "2003",
+        "rating": "8.3\n (652K)"
+    },
+    {
+        "title": "77. American Beauty",
+        "year": "1999",
+        "rating": "8.3\n (1.2M)"
+    },
+    {
+        "title": "78. Avengers: Endgame",
+        "year": "2019",
+        "rating": "8.4\n (1.3M)"
+    },
+    {
+        "title": "79. Das Boot",
+        "year": "1981",
+        "rating": "8.4\n (267K)"
+    },
+    {
+        "title": "80. Braveheart",
+        "year": "1995",
+        "rating": "8.3\n (1.1M)"
+    },
+    {
+        "title": "81. Good Will Hunting",
+        "year": "1997",
+        "rating": "8.3\n (1.1M)"
+    },
+    {
+        "title": "82. Princess Mononoke",
+        "year": "1997",
+        "rating": "8.3\n (443K)"
+    },
+    {
+        "title": "83. Your Name.",
+        "year": "2016",
+        "rating": "8.4\n (333K)"
+    },
+    {
+        "title": "84. Joker",
+        "year": "2019",
+        "rating": "8.4\n (1.5M)"
+    },
+    {
+        "title": "85. High and Low",
+        "year": "1963",
+        "rating": "8.4\n (55K)"
+    },
+    {
+        "title": "86. 3 Idiots",
+        "year": "2009",
+        "rating": "8.4\n (443K)"
+    },
+    {
+        "title": "87. Once Upon a Time in America",
+        "year": "1984",
+        "rating": "8.3\n (383K)"
+    },
+    {
+        "title": "88. Singin' in the Rain",
+        "year": "1952",
+        "rating": "8.3\n (265K)"
+    },
+    {
+        "title": "89. Capernaum",
+        "year": "2018",
+        "rating": "8.4\n (109K)"
+    },
+    {
+        "title": "90. Come and See",
+        "year": "1985",
+        "rating": "8.4\n (102K)"
+    },
+    {
+        "title": "91. Requiem for a Dream",
+        "year": "2000",
+        "rating": "8.3\n (915K)"
+    },
+    {
+        "title": "92. Toy Story 3",
+        "year": "2010",
+        "rating": "8.3\n (906K)"
+    },
+    {
+        "title": "93. Star Wars: Episode VI - Return of the Jedi",
+        "year": "1983",
+        "rating": "8.3\n (1.1M)"
+    },
+    {
+        "title": "94. The Hunt",
+        "year": "2012",
+        "rating": "8.3\n (372K)"
+    },
+    {
+        "title": "95. Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "rating": "8.3\n (1.1M)"
+    },
+    {
+        "title": "96. 2001: A Space Odyssey",
+        "year": "1968",
+        "rating": "8.3\n (731K)"
+    },
+    {
+        "title": "97. Ikiru",
+        "year": "1952",
+        "rating": "8.3\n (90K)"
+    },
+    {
+        "title": "98. Reservoir Dogs",
+        "year": "1992",
+        "rating": "8.3\n (1.1M)"
+    },
+    {
+        "title": "99. Lawrence of Arabia",
+        "year": "1962",
+        "rating": "8.3\n (320K)"
+    },
+    {
+        "title": "100. The Apartment",
+        "year": "1960",
+        "rating": "8.3\n (200K)"
+    },
+    {
+        "title": "101. Incendies",
+        "year": "2010",
+        "rating": "8.3\n (210K)"
+    },
+    {
+        "title": "102. Scarface",
+        "year": "1983",
+        "rating": "8.3\n (936K)"
+    },
+    {
+        "title": "103. North by Northwest",
+        "year": "1959",
+        "rating": "8.3\n (351K)"
+    },
+    {
+        "title": "104. Double Indemnity",
+        "year": "1944",
+        "rating": "8.3\n (170K)"
+    },
+    {
+        "title": "105. Citizen Kane",
+        "year": "1941",
+        "rating": "8.3\n (471K)"
+    },
+    {
+        "title": "106. Oppenheimer",
+        "year": "2023",
+        "rating": "8.3\n (804K)"
+    },
+    {
+        "title": "107. M",
+        "year": "1931",
+        "rating": "8.3\n (171K)"
+    },
+    {
+        "title": "108. Vertigo",
+        "year": "1958",
+        "rating": "8.3\n (434K)"
+    },
+    {
+        "title": "109. Heat",
+        "year": "1995",
+        "rating": "8.3\n (733K)"
+    },
+    {
+        "title": "110. Full Metal Jacket",
+        "year": "1987",
+        "rating": "8.2\n (802K)"
+    },
+    {
+        "title": "111. Amélie",
+        "year": "2001",
+        "rating": "8.3\n (803K)"
+    },
+    {
+        "title": "112. Up",
+        "year": "2009",
+        "rating": "8.3\n (1.1M)"
+    },
+    {
+        "title": "113. A Clockwork Orange",
+        "year": "1971",
+        "rating": "8.2\n (894K)"
+    },
+    {
+        "title": "114. To Kill a Mockingbird",
+        "year": "1962",
+        "rating": "8.3\n (337K)"
+    },
+    {
+        "title": "115. A Separation",
+        "year": "2011",
+        "rating": "8.3\n (262K)"
+    },
+    {
+        "title": "116. The Sting",
+        "year": "1973",
+        "rating": "8.3\n (283K)"
+    },
+    {
+        "title": "117. Die Hard",
+        "year": "1988",
+        "rating": "8.2\n (959K)"
+    },
+    {
+        "title": "118. Indiana Jones and the Last Crusade",
+        "year": "1989",
+        "rating": "8.2\n (821K)"
+    },
+    {
+        "title": "119. Like Stars on Earth",
+        "year": "2007",
+        "rating": "8.3\n (210K)"
+    },
+    {
+        "title": "120. Metropolis",
+        "year": "1927",
+        "rating": "8.3\n (188K)"
+    },
+    {
+        "title": "121. Snatch",
+        "year": "2000",
+        "rating": "8.2\n (923K)"
+    },
+    {
+        "title": "122. 1917",
+        "year": "2019",
+        "rating": "8.2\n (696K)"
+    },
+    {
+        "title": "123. L.A. Confidential",
+        "year": "1997",
+        "rating": "8.2\n (625K)"
+    },
+    {
+        "title": "124. Bicycle Thieves",
+        "year": "1948",
+        "rating": "8.3\n (178K)"
+    },
+    {
+        "title": "125. Hamilton",
+        "year": "2020",
+        "rating": "8.3\n (118K)"
+    },
+    {
+        "title": "126. Downfall",
+        "year": "2004",
+        "rating": "8.2\n (380K)"
+    },
+    {
+        "title": "127. Taxi Driver",
+        "year": "1976",
+        "rating": "8.2\n (940K)"
+    },
+    {
+        "title": "128. Dangal",
+        "year": "2016",
+        "rating": "8.3\n (217K)"
+    },
+    {
+        "title": "129. Batman Begins",
+        "year": "2005",
+        "rating": "8.2\n (1.6M)"
+    },
+    {
+        "title": "130. The Wolf of Wall Street",
+        "year": "2013",
+        "rating": "8.2\n (1.6M)"
+    },
+    {
+        "title": "131. For a Few Dollars More",
+        "year": "1965",
+        "rating": "8.2\n (280K)"
+    },
+    {
+        "title": "132. Green Book",
+        "year": "2018",
+        "rating": "8.2\n (597K)"
+    },
+    {
+        "title": "133. Some Like It Hot",
+        "year": "1959",
+        "rating": "8.2\n (288K)"
+    },
+    {
+        "title": "134. The Truman Show",
+        "year": "1998",
+        "rating": "8.2\n (1.2M)"
+    },
+    {
+        "title": "135. Judgment at Nuremberg",
+        "year": "1961",
+        "rating": "8.3\n (87K)"
+    },
+    {
+        "title": "136. The Kid",
+        "year": "1921",
+        "rating": "8.2\n (137K)"
+    },
+    {
+        "title": "137. The Father",
+        "year": "2020",
+        "rating": "8.2\n (200K)"
+    },
+    {
+        "title": "138. All About Eve",
+        "year": "1950",
+        "rating": "8.2\n (141K)"
+    },
+    {
+        "title": "139. Shutter Island",
+        "year": "2010",
+        "rating": "8.2\n (1.5M)"
+    },
+    {
+        "title": "140. There Will Be Blood",
+        "year": "2007",
+        "rating": "8.2\n (653K)"
+    },
+    {
+        "title": "141. Jurassic Park",
+        "year": "1993",
+        "rating": "8.2\n (1.1M)"
+    },
+    {
+        "title": "142. Casino",
+        "year": "1995",
+        "rating": "8.2\n (575K)"
+    },
+    {
+        "title": "143. Top Gun: Maverick",
+        "year": "2022",
+        "rating": "8.2\n (731K)"
+    },
+    {
+        "title": "144. The Sixth Sense",
+        "year": "1999",
+        "rating": "8.2\n (1.1M)"
+    },
+    {
+        "title": "145. Ran",
+        "year": "1985",
+        "rating": "8.2\n (139K)"
+    },
+    {
+        "title": "146. Pan's Labyrinth",
+        "year": "2006",
+        "rating": "8.2\n (712K)"
+    },
+    {
+        "title": "147. Unforgiven",
+        "year": "1992",
+        "rating": "8.2\n (442K)"
+    },
+    {
+        "title": "148. No Country for Old Men",
+        "year": "2007",
+        "rating": "8.2\n (1.1M)"
+    },
+    {
+        "title": "149. The Thing",
+        "year": "1982",
+        "rating": "8.2\n (479K)"
+    },
+    {
+        "title": "150. A Beautiful Mind",
+        "year": "2001",
+        "rating": "8.2\n (1M)"
+    },
+    {
+        "title": "151. Kill Bill: Vol. 1",
+        "year": "2003",
+        "rating": "8.2\n (1.2M)"
+    },
+    {
+        "title": "152. The Treasure of the Sierra Madre",
+        "year": "1948",
+        "rating": "8.2\n (134K)"
+    },
+    {
+        "title": "153. Yojimbo",
+        "year": "1961",
+        "rating": "8.2\n (133K)"
+    },
+    {
+        "title": "154. The Great Escape",
+        "year": "1963",
+        "rating": "8.2\n (262K)"
+    },
+    {
+        "title": "155. Monty Python and the Holy Grail",
+        "year": "1975",
+        "rating": "8.2\n (577K)"
+    },
+    {
+        "title": "156. Finding Nemo",
+        "year": "2003",
+        "rating": "8.2\n (1.1M)"
+    },
+    {
+        "title": "157. Prisoners",
+        "year": "2013",
+        "rating": "8.2\n (835K)"
+    },
+    {
+        "title": "158. Howl's Moving Castle",
+        "year": "2004",
+        "rating": "8.2\n (462K)"
+    },
+    {
+        "title": "159. The Elephant Man",
+        "year": "1980",
+        "rating": "8.2\n (262K)"
+    },
+    {
+        "title": "160. Rashomon",
+        "year": "1950",
+        "rating": "8.2\n (184K)"
+    },
+    {
+        "title": "161. Dial M for Murder",
+        "year": "1954",
+        "rating": "8.2\n (192K)"
+    },
+    {
+        "title": "162. Chinatown",
+        "year": "1974",
+        "rating": "8.1\n (356K)"
+    },
+    {
+        "title": "163. Gone with the Wind",
+        "year": "1939",
+        "rating": "8.2\n (338K)"
+    },
+    {
+        "title": "164. The Secret in Their Eyes",
+        "year": "2009",
+        "rating": "8.2\n (226K)"
+    },
+    {
+        "title": "165. Lock, Stock and Two Smoking Barrels",
+        "year": "1998",
+        "rating": "8.1\n (623K)"
+    },
+    {
+        "title": "166. Inside Out",
+        "year": "2015",
+        "rating": "8.1\n (828K)"
+    },
+    {
+        "title": "167. V for Vendetta",
+        "year": "2005",
+        "rating": "8.1\n (1.2M)"
+    },
+    {
+        "title": "168. Three Billboards Outside Ebbing, Missouri",
+        "year": "2017",
+        "rating": "8.1\n (564K)"
+    },
+    {
+        "title": "169. Raging Bull",
+        "year": "1980",
+        "rating": "8.1\n (385K)"
+    },
+    {
+        "title": "170. Trainspotting",
+        "year": "1996",
+        "rating": "8.1\n (735K)"
+    },
+    {
+        "title": "171. The Bridge on the River Kwai",
+        "year": "1957",
+        "rating": "8.1\n (237K)"
+    },
+    {
+        "title": "172. Klaus",
+        "year": "2019",
+        "rating": "8.2\n (195K)"
+    },
+    {
+        "title": "173. Catch Me If You Can",
+        "year": "2002",
+        "rating": "8.1\n (1.1M)"
+    },
+    {
+        "title": "174. Fargo",
+        "year": "1996",
+        "rating": "8.1\n (738K)"
+    },
+    {
+        "title": "175. Warrior",
+        "year": "2011",
+        "rating": "8.1\n (503K)"
+    },
+    {
+        "title": "176. Spider-Man: No Way Home",
+        "year": "2021",
+        "rating": "8.2\n (907K)"
+    },
+    {
+        "title": "177. Gran Torino",
+        "year": "2008",
+        "rating": "8.1\n (825K)"
+    },
+    {
+        "title": "178. Harry Potter and the Deathly Hallows: Part 2",
+        "year": "2011",
+        "rating": "8.1\n (967K)"
+    },
+    {
+        "title": "179. Million Dollar Baby",
+        "year": "2004",
+        "rating": "8.1\n (730K)"
+    },
+    {
+        "title": "180. My Neighbour Totoro",
+        "year": "1988",
+        "rating": "8.1\n (390K)"
+    },
+    {
+        "title": "181. Mad Max: Fury Road",
+        "year": "2015",
+        "rating": "8.1\n (1.1M)"
+    },
+    {
+        "title": "182. Children of Heaven",
+        "year": "1997",
+        "rating": "8.2\n (82K)"
+    },
+    {
+        "title": "183. Ben-Hur",
+        "year": "1959",
+        "rating": "8.1\n (257K)"
+    },
+    {
+        "title": "184. 12 Years a Slave",
+        "year": "2013",
+        "rating": "8.1\n (750K)"
+    },
+    {
+        "title": "185. Barry Lyndon",
+        "year": "1975",
+        "rating": "8.1\n (187K)"
+    },
+    {
+        "title": "186. Before Sunrise",
+        "year": "1995",
+        "rating": "8.1\n (348K)"
+    },
+    {
+        "title": "187. Blade Runner",
+        "year": "1982",
+        "rating": "8.1\n (834K)"
+    },
+    {
+        "title": "188. The Grand Budapest Hotel",
+        "year": "2014",
+        "rating": "8.1\n (903K)"
+    },
+    {
+        "title": "189. Hacksaw Ridge",
+        "year": "2016",
+        "rating": "8.1\n (611K)"
+    },
+    {
+        "title": "190. Gone Girl",
+        "year": "2014",
+        "rating": "8.1\n (1.1M)"
+    },
+    {
+        "title": "191. Dead Poets Society",
+        "year": "1989",
+        "rating": "8.1\n (561K)"
+    },
+    {
+        "title": "192. Maharaja",
+        "year": "2024",
+        "rating": "8.5\n (49K)"
+    },
+    {
+        "title": "193. Memories of Murder",
+        "year": "2003",
+        "rating": "8.1\n (225K)"
+    },
+    {
+        "title": "194. In the Name of the Father",
+        "year": "1993",
+        "rating": "8.1\n (190K)"
+    },
+    {
+        "title": "195. The Gold Rush",
+        "year": "1925",
+        "rating": "8.1\n (120K)"
+    },
+    {
+        "title": "196. Monsters, Inc.",
+        "year": "2001",
+        "rating": "8.1\n (1M)"
+    },
+    {
+        "title": "197. Wild Tales",
+        "year": "2014",
+        "rating": "8.1\n (221K)"
+    },
+    {
+        "title": "198. The Deer Hunter",
+        "year": "1978",
+        "rating": "8.1\n (368K)"
+    },
+    {
+        "title": "199. Ratatouille",
+        "year": "2007",
+        "rating": "8.1\n (848K)"
+    },
+    {
+        "title": "200. Sherlock Jr.",
+        "year": "1924",
+        "rating": "8.2\n (59K)"
+    },
+    {
+        "title": "201. The General",
+        "year": "1926",
+        "rating": "8.1\n (100K)"
+    },
+    {
+        "title": "202. Jaws",
+        "year": "1975",
+        "rating": "8.1\n (676K)"
+    },
+    {
+        "title": "203. How to Train Your Dragon",
+        "year": "2010",
+        "rating": "8.1\n (817K)"
+    },
+    {
+        "title": "204. On the Waterfront",
+        "year": "1954",
+        "rating": "8.1\n (168K)"
+    },
+    {
+        "title": "205. Mary and Max",
+        "year": "2009",
+        "rating": "8.1\n (189K)"
+    },
+    {
+        "title": "206. The Wages of Fear",
+        "year": "1953",
+        "rating": "8.1\n (68K)"
+    },
+    {
+        "title": "207. Le Mans '66",
+        "year": "2019",
+        "rating": "8.1\n (497K)"
+    },
+    {
+        "title": "208. Wild Strawberries",
+        "year": "1957",
+        "rating": "8.1\n (117K)"
+    },
+    {
+        "title": "209. Mr. Smith Goes to Washington",
+        "year": "1939",
+        "rating": "8.1\n (123K)"
+    },
+    {
+        "title": "210. The Third Man",
+        "year": "1949",
+        "rating": "8.1\n (185K)"
+    },
+    {
+        "title": "211. Logan",
+        "year": "2017",
+        "rating": "8.1\n (863K)"
+    },
+    {
+        "title": "212. Rocky",
+        "year": "1976",
+        "rating": "8.1\n (641K)"
+    },
+    {
+        "title": "213. Tokyo Story",
+        "year": "1953",
+        "rating": "8.1\n (70K)"
+    },
+    {
+        "title": "214. The Big Lebowski",
+        "year": "1998",
+        "rating": "8.1\n (873K)"
+    },
+    {
+        "title": "215. The Seventh Seal",
+        "year": "1957",
+        "rating": "8.1\n (202K)"
+    },
+    {
+        "title": "216. Room",
+        "year": "2015",
+        "rating": "8.1\n (457K)"
+    },
+    {
+        "title": "217. Spotlight",
+        "year": "2015",
+        "rating": "8.1\n (509K)"
+    },
+    {
+        "title": "218. The Terminator",
+        "year": "1984",
+        "rating": "8.1\n (940K)"
+    },
+    {
+        "title": "219. Hotel Rwanda",
+        "year": "2004",
+        "rating": "8.1\n (376K)"
+    },
+    {
+        "title": "220. Platoon",
+        "year": "1986",
+        "rating": "8.1\n (446K)"
+    },
+    {
+        "title": "221. Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": "2003",
+        "rating": "8.1\n (1.2M)"
+    },
+    {
+        "title": "222. La haine",
+        "year": "1995",
+        "rating": "8.1\n (202K)"
+    },
+    {
+        "title": "223. Before Sunset",
+        "year": "2004",
+        "rating": "8.1\n (294K)"
+    },
+    {
+        "title": "224. Jai Bhim",
+        "year": "2021",
+        "rating": "8.7\n (221K)"
+    },
+    {
+        "title": "225. The Passion of Joan of Arc",
+        "year": "1928",
+        "rating": "8.1\n (62K)"
+    },
+    {
+        "title": "226. The Best Years of Our Lives",
+        "year": "1946",
+        "rating": "8.1\n (72K)"
+    },
+    {
+        "title": "227. The Exorcist",
+        "year": "1973",
+        "rating": "8.1\n (465K)"
+    },
+    {
+        "title": "228. Rush",
+        "year": "2013",
+        "rating": "8.1\n (522K)"
+    },
+    {
+        "title": "229. The Incredibles",
+        "year": "2004",
+        "rating": "8.0\n (829K)"
+    },
+    {
+        "title": "230. The Wizard of Oz",
+        "year": "1939",
+        "rating": "8.1\n (436K)"
+    },
+    {
+        "title": "231. Network",
+        "year": "1976",
+        "rating": "8.1\n (174K)"
+    },
+    {
+        "title": "232. Stand by Me",
+        "year": "1986",
+        "rating": "8.1\n (451K)"
+    },
+    {
+        "title": "233. Hachi: A Dog's Tale",
+        "year": "2009",
+        "rating": "8.1\n (318K)"
+    },
+    {
+        "title": "234. The Sound of Music",
+        "year": "1965",
+        "rating": "8.1\n (267K)"
+    },
+    {
+        "title": "235. My Father and My Son",
+        "year": "2005",
+        "rating": "8.2\n (95K)"
+    },
+    {
+        "title": "236. The Handmaiden",
+        "year": "2016",
+        "rating": "8.1\n (178K)"
+    },
+    {
+        "title": "237. To Be or Not to Be",
+        "year": "1942",
+        "rating": "8.1\n (44K)"
+    },
+    {
+        "title": "238. Into the Wild",
+        "year": "2007",
+        "rating": "8.1\n (667K)"
+    },
+    {
+        "title": "239. The Battle of Algiers",
+        "year": "1966",
+        "rating": "8.1\n (67K)"
+    },
+    {
+        "title": "240. The Grapes of Wrath",
+        "year": "1940",
+        "rating": "8.1\n (102K)"
+    },
+    {
+        "title": "241. Groundhog Day",
+        "year": "1993",
+        "rating": "8.0\n (697K)"
+    },
+    {
+        "title": "242. The Iron Giant",
+        "year": "1999",
+        "rating": "8.1\n (234K)"
+    },
+    {
+        "title": "243. Amores perros",
+        "year": "2000",
+        "rating": "8.0\n (256K)"
+    },
+    {
+        "title": "244. Rebecca",
+        "year": "1940",
+        "rating": "8.1\n (149K)"
+    },
+    {
+        "title": "245. The Help",
+        "year": "2011",
+        "rating": "8.1\n (501K)"
+    },
+    {
+        "title": "246. Cool Hand Luke",
+        "year": "1967",
+        "rating": "8.1\n (191K)"
+    },
+    {
+        "title": "247. It Happened One Night",
+        "year": "1934",
+        "rating": "8.1\n (114K)"
+    },
+    {
+        "title": "248. Gangs of Wasseypur",
+        "year": "2012",
+        "rating": "8.2\n (106K)"
+    },
+    {
+        "title": "249. Drishyam",
+        "year": "2015",
+        "rating": "8.2\n (98K)"
+    },
+    {
+        "title": "250. Paris, Texas",
+        "year": "1984",
+        "rating": "8.1\n (125K)"
+    }
+]
