@@ -14,10 +14,12 @@ def run(playwright):
     page.goto(url)
 
     # Wait for the movie list to load
+    # inspect the sites html structure and find the parent class which contains the list information
     page.wait_for_selector("ul.ipc-metadata-list")
 
     # Extract movie information
     movies = page.query_selector_all("li.ipc-metadata-list-summary-item")
+    print(movies)
 
     movie_list = []
 
