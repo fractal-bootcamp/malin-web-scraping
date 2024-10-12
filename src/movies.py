@@ -33,17 +33,10 @@ def run(playwright):
 
         movie_list.append(movie_data)
 
-        for i, movie in enumerate(movies, 1):
-            # Get the HTML content of the movie element
-            html_content = movie.evaluate("element => element.outerHTML")
-            print(f"Movie {i} HTML structure:")
-            print(html_content)
-            print("---" * 20)  # Separator between movies
-
-        # print(f"Title: {title}")
-        # print(f"Year: {year}")
-        # print(f"Rating: {rating}")
-        # print("---")
+        print(f"Title: {title}")
+        print(f"Year: {year}")
+        print(f"Rating: {rating}")
+        print("---")
 
     # Write the movie list to a JSON file
     with open("movies.json", "w", encoding="utf-8") as f:
